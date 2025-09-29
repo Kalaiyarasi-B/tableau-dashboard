@@ -27,3 +27,5 @@ It combines **Python** (for data cleaning & forecasting) and **Tableau** (for in
 ****Filtered Reginoal map screenshot****
 
 <img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/8ca90f24-28be-4ed9-8d6e-4c98a68b09ba" />
+
+_**AUTHOR NAME : KALAIYARASI B**_
