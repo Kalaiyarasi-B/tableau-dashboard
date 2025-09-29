@@ -15,7 +15,10 @@ It combines **Python** (for data cleaning & forecasting) and **Tableau** (for in
 ## 🚀 Key Insights
 - Identified top-performing products and regions.  
 - Built forecasting model to predict next 2 months of sales.  
-- Created an interactive Tableau dashboard for decision-making.  
+- Created an interactive Tableau dashboard for decision-making.
+**Dashboard screenshot**
 <img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/5ab6428f-6c16-4121-add2-c7c3fa0ba83d" />
+**Filterd Forecast screenshot**
 <img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/dc3bc519-1826-4605-8d8e-f9c89a0a9ba7" />
+**Filtered Reginoal map screenshot**
 <img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/8ca90f24-28be-4ed9-8d6e-4c98a68b09ba" />
